@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Reader</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_home">Home</string>
+    <string name="hello_world">Text reader</string>
+
+</resources>
